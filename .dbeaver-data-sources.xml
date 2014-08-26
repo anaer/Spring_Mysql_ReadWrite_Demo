@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data-sources>
+	<data-source id="mysql5-1409042778148--1136589376" provider="mysql" driver="mysql5" name="MySQL - 3306 - test" create-date="1409042804428" save-password="true" show-system-objects="true" read-only="false">
+		<connection host="localhost" port="3306" server="" database="test" url="jdbc:mysql://localhost:3306/test" user="root" password="AwUVM1ZMVhJl8w==" home="C:\Program Files\MySQL\MySQL Server 5.5" type="dev">
+			<property name="@dbeaver-ssl@" value="false"/>
+			<network-handler type="TUNNEL" id="ssh_tunnel" enabled="false" user="" save-password="false">
+				<property name="port" value="22"/>
+				<property name="host" value=""/>
+				<property name="keyPath" value=""/>
+				<property name="authType" value="PASSWORD"/>
+			</network-handler>
+			<network-handler type="PROXY" id="socks_proxy" enabled="false" user="" save-password="false">
+				<property name="socks-host" value=""/>
+				<property name="socks-port" value="1080"/>
+			</network-handler>
+		</connection>
+	</data-source>
+	<data-source id="mysql5-1409042809128-1243800338" provider="mysql" driver="mysql5" name="MySQL - 3307 - test" create-date="1409042831209" save-password="true" show-system-objects="true" read-only="false">
+		<connection host="localhost" port="3307" server="" database="test" url="jdbc:mysql://localhost:3307/test" user="root" password="AwUVM1ZMVhJl8w==" home="C:\Program Files\MySQL2\MySQL Server 5.5" type="dev">
+			<property name="@dbeaver-ssl@" value="false"/>
+			<network-handler type="TUNNEL" id="ssh_tunnel" enabled="false" user="" save-password="false">
+				<property name="port" value="22"/>
+				<property name="host" value=""/>
+				<property name="keyPath" value=""/>
+				<property name="authType" value="PASSWORD"/>
+			</network-handler>
+			<network-handler type="PROXY" id="socks_proxy" enabled="false" user="" save-password="false">
+				<property name="socks-host" value=""/>
+				<property name="socks-port" value="1080"/>
+			</network-handler>
+		</connection>
+	</data-source>
+	<data-source id="mysql5-1409042835039-412453905" provider="mysql" driver="mysql5" name="MySQL - 3308 - test" create-date="1409042875639" save-password="true" show-system-objects="true" read-only="false">
+		<connection host="localhost" port="3308" server="" database="test" url="jdbc:mysql://localhost:3308/test" user="root" password="AwUVM1ZMVhJl8w==" home="C:\Program Files\MySQL3\MySQL Server 5.5" type="dev">
+			<property name="@dbeaver-ssl@" value="false"/>
+			<network-handler type="TUNNEL" id="ssh_tunnel" enabled="false" user="" save-password="false">
+				<property name="port" value="22"/>
+				<property name="host" value=""/>
+				<property name="keyPath" value=""/>
+				<property name="authType" value="PASSWORD"/>
+			</network-handler>
+			<network-handler type="PROXY" id="socks_proxy" enabled="false" user="" save-password="false">
+				<property name="socks-host" value=""/>
+				<property name="socks-port" value="1080"/>
+			</network-handler>
+		</connection>
+	</data-source>
+</data-sources>
